@@ -1,0 +1,27 @@
+/* * {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+  } */
+
+.main{
+    /* margin: 0; */
+    display: block;
+    /* height: 500px; */
+    min-height: 100vh;
+    background-color: rgb(43, 43, 43);
+    color: antiquewhite;
+    font-size: 6rem;
+}
+
+.content{
+    background-color: aqua;
+    width: 50%;
+}
+
+.viewer{
+    background-color: rgb(243, 255, 111);
+    height: 100vh;
+    justify-content: space-between;
+    /* wid th: 100vh; */
+}
